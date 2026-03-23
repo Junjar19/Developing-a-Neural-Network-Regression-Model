@@ -4,10 +4,11 @@
 To develop a neural network regression model for the given dataset.
 
 ## THEORY
-Explain the problem statement
+The objective is to design and train a neural network–based regression model that can learn the relationship between input features and a continuous target variable in the given dataset. The model aims to accurately predict numerical outcomes by minimizing prediction error and capturing underlying data patterns.
 
 ## Neural Network Model
-Include the neural network model diagram.
+
+![alt text](image-1.png)
 
 ## DESIGN STEPS
 ### STEP 1: 
@@ -108,7 +109,7 @@ Include screenshot of the generated data
 ![alt text](image-2.png)
 
 ### OUTPUT
-![alt text](image-1.png)
+
 ### Training Loss Vs Iteration Plot
 Include your plot here
 ![alt text](image-3.png)
